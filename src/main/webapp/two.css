@@ -1,0 +1,51 @@
+@charset "UTF-8";
+*{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: sans-serif;
+}
+
+.container{
+    height: 100vh;
+	display: flex;
+	flex-direction:column;
+	align-items: center;
+	justify-content: center;
+	padding:300px;
+	background-image: url(https://vidhilegalpolicy.in/wp-content/uploads/2025/09/iStock-1222573904.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.b22{ 
+	margin-bottom: 60px;
+	color: #2376dc;
+}
+.b21{
+	border: 6px solid #8AD4EA;
+	margin: 6px;
+	border-radius: 16px;
+	padding: 6px;
+	background-color: #F2F3F5;
+}
+
+.b23:hover{
+	background-color: #8AD4EA;
+	border-color: #F2F3F5;
+	transition-duration: .3s;
+	
+	
+}
+.b24{
+	color: #0000a0;
+	font-size: xx-large;
+	font-weight: 400;
+	
+}
+
+.b25{
+	color: #0000a0;
+	font-size: x-large;
+	font-weight: 300;
+}

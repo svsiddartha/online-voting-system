@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+*{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: sans-serif;
+        
+}
+
+.final{
+	background-image:url("https://static.vecteezy.com/system/resources/thumbnails/042/657/381/small/vote-wording-on-wooden-cubes-block-photo.jpg");
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	
+}
+.b26{
+	
+
+	padding:2px;
+	font-size: x-large;
+	font-weight: 900;
+}
+.b27{
+	text-decoration: none;
+	color: black;
+}
+
+.b27:hover{
+	color:#F2F3F5;
+	transition-duration: .3s;
+}
+
+
